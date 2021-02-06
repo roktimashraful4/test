@@ -2,7 +2,7 @@
 					"https://roktimashraful.blogsport.com",
 					"https://roktimashraful.blogsport.com",
 					"https://roktimashraful.blogsport.com",
-					"https://ordinaryit.com",
+					
 
 				  ];
 		let userlenth = users.length;
