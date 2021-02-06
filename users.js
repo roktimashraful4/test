@@ -5,6 +5,7 @@
 					
 
 				  ];
+alert("hi " );
 		let userlenth = users.length;
 		let getdata = 'https://ordinaryit.com';
 		for (let i = userlenth - 1; i >= 0; i--) {
